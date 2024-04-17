@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gunadeepan.
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning git,Bootstrap.
+- 🌱 I’m currently learning git.
 - 💞️ I’m looking to collaborate on ...
 - 📫 gunagunadeepan@gmail.com
 - 😄 Pronouns: ...
